@@ -1,6 +1,7 @@
 var mixin = require('merge-descriptors');
 var proto = require("./app")
 var http = require('http');
+var fs = require('fs');
 
 exports = module.exports = createApplication;
 
@@ -25,6 +26,14 @@ function createApplication() {
         return this;
     }
 
+    res.sendFile=function (body){
+        this.setHeader("Content-Type", "text/html");
+        //here is the code required
+        fs.readFile(body, (err,fileContent) =>
+        {
+          this.res.end(fileContent);
+        });
+    }
 
     res.json = function (body) {
         this.setHeader('Content-Type', 'application/json');
