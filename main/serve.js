@@ -2,6 +2,7 @@ var mixin = require('merge-descriptors');
 var proto = require("./app")
 var http = require('http');
 var fs = require('fs');
+var path=require("path");
 
 exports = module.exports = createApplication;
 
@@ -20,19 +21,17 @@ function createApplication() {
             this.json(body)
         }
         else if(typeof body === 'string') {
-            // this.setHeader('Content-Type', 'text/plain');
             this.end(body,'utf8');
         }
         return this;
     }
 
     res.sendFile=function (body){
-        this.setHeader("Content-Type", "text/html");
-        //here is the code required
-        fs.readFile(body, (err,fileContent) =>
-        {
-          this.res.end(fileContent);
-        });
+        this.writeHead(200, {"Content-Type": "text/html"});
+        fs.readFile(path.join(__dirname,"..",body), (err,fileContent) =>
+            {
+                return this.end(fileContent);
+            });
     }
 
     res.json = function (body) {

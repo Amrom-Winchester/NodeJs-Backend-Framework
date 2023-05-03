@@ -5,6 +5,7 @@ var Layer = require('./Layer')
 var slice = Array.prototype.slice;
 var http = require('http');
 var middleware = require('./middleware/init');
+var {logger}= require('./utils');
 
 var app = exports = module.exports = {};
 
@@ -53,7 +54,23 @@ app.listen = function listen() {
 app.handle = function handle(req, res, callback) {
     var router = this._router;
 
+    const header = req.rawHeaders;
+    for( let i=0; i<header.length; i++ ) {
+        var str = header[i];
+
+        if( str[0]=='M' )
+        { 
+        var info = "Details of user : " + str;
+        }
+    }
+    
+
+    var startTime=Date.now();
     router.handle(req, res);
+    var endTime=Date.now();
+    var tTime=(endTime-startTime).toString() + 'ms taken by request round trip';
+    
+    logger( JSON.stringify(tTime),JSON.stringify(info));
 };
 
 methods.forEach(function (method){
