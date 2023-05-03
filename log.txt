@@ -1,0 +1,75 @@
+[3/5/2023 @ 16:30:7]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"9ms taken by request round trip"
+[3/5/2023 @ 16:30:7]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"0ms taken by request round trip"
+[3/5/2023 @ 16:30:27]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"1ms taken by request round trip"
+[3/5/2023 @ 16:30:47]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"0ms taken by request round trip"
+[3/5/2023 @ 16:33:46]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"0ms taken by request round trip"
+[3/5/2023 @ 16:33:47]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"0ms taken by request round trip"
+[3/5/2023 @ 16:33:50]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"1ms taken by request round trip"
+[3/5/2023 @ 16:33:51]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"75ms taken by request round trip"
+[3/5/2023 @ 16:33:51]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"0ms taken by request round trip"
+[3/5/2023 @ 16:34:18]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"49ms taken by request round trip"
+[3/5/2023 @ 16:34:19]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"0ms taken by request round trip"
+[3/5/2023 @ 16:34:52]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"0ms taken by request round trip"
+[3/5/2023 @ 16:34:56]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"3ms taken by request round trip"
+[3/5/2023 @ 16:34:56]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"0ms taken by request round trip"
+[3/5/2023 @ 16:36:14]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"0ms taken by request round trip"
+[3/5/2023 @ 16:36:18]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"80ms taken by request round trip"
+[3/5/2023 @ 16:36:18]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"1ms taken by request round trip"
+[3/5/2023 @ 16:42:53]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"5ms taken by request round trip"
+[3/5/2023 @ 16:42:54]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"0ms taken by request round trip"
+[3/5/2023 @ 16:43:21]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"0ms taken by request round trip"
+[3/5/2023 @ 16:43:24]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"3ms taken by request round trip"
+[3/5/2023 @ 16:43:24]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"0ms taken by request round trip"
+[3/5/2023 @ 16:45:28]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"1ms taken by request round trip"
+[3/5/2023 @ 16:45:31]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"7ms taken by request round trip"
+[3/5/2023 @ 16:45:31]
+"Details of user : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"0ms taken by request round trip"
